@@ -1,4 +1,4 @@
-File_Path,Columns_Name,Columns_Data_Type,Record_Count
+File_Path  Columns_Name  Columns_Data_Type  Record_Count
 F:\Server\Ref\Import\Abio_Metal.tsv	[Metal]	[VARCHAR(14)]	92
 F:\Server\Ref\Import\Abio_Mineral.tsv	[Mineral]	[VARCHAR(20)]	472
 F:\Server\Ref\Import\Bio_Alcohol.tsv	[Alcohol]	[VARCHAR(11)]	13
